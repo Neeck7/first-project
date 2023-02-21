@@ -16,3 +16,8 @@
 .backgroung_image{
   background-image: url('https://code.s3.yandex.net/web-code/reactive.gif');
 }
+.TText{
+  margin: auto;
+  font-size: 28px;
+  color: red;
+}
